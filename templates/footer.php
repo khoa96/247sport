@@ -5,8 +5,8 @@
                 <img src="./images/logo-footer.png" alt="logo-footer.png" alt="" />
             </a>
             <p class="footer-description">
-                Watch sport matches live today, enjoy live streaming football HD and update the latest fixtures on TV at
-                2SportTV.com with the largest coverage for 100+ leagues.
+                Bingsport is the world’s only sports-focused live TV streaming service with top leagues and teams.
+                Email: bingsport.com@gmail.com.
             </p>
 
             <span class="email">Email: contact.2sporttv@gmail.com</span>
