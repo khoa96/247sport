@@ -23,7 +23,7 @@
                             </defs>
                         </svg>
                     </span>
-                   <div class="category-item">
+                    <div class="category-item">
                         <span>Champions League</span>
                     </div>
                 </ul>
@@ -64,7 +64,7 @@
                                 <span class="icon-checked">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
-                                        <rect x="1" y="1" width="22" height="22" rx="11" fill="#F1516E" />
+                                        <rect x="1" y="1" width="22" height="22" rx="11" fill="#D13E34" />
                                         <g clip-path="url(#clip0_609_14696)">
                                             <path d="M7.33301 12.0003L10.6663 15.3337L17.333 8.66699" stroke="white"
                                                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -101,7 +101,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -122,7 +122,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -143,7 +143,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -164,7 +164,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -214,7 +214,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#D13E34" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -235,7 +235,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#D13E34" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -256,7 +256,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#D13E34" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -277,7 +277,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#D13E34" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -325,7 +325,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -346,7 +346,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -367,7 +367,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -388,7 +388,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -436,7 +436,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -457,7 +457,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -478,7 +478,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -499,7 +499,7 @@
                                         <span class="icon-option">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
-                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#034F76" />
+                                                <rect x="0.5" y="0.5" width="11" height="11" rx="5.5" fill="#007649" />
                                                 <g clip-path="url(#clip0_609_14689)">
                                                     <path d="M3.66699 5.99967L5.33366 7.66634L8.66699 4.33301"
                                                         stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -642,19 +642,21 @@
                         <div>
                             <div class="payment-description">
                                 <span class="icon-success">
+
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_103_3340)">
+                                        <g clip-path="url(#clip0_726_1461)">
                                             <path
-                                                d="M20 1.6275C19.9976 1.19664 19.8248 0.78422 19.5195 0.480251C19.2141 0.176281 18.8009 0.0054382 18.37 0.00500488H1.6325C1.20135 0.00764729 0.788764 0.180835 0.484903 0.486726C0.181042 0.792617 0.010605 1.20634 0.0108333 1.6375L0 7.75417C0.0219797 10.6096 1.01147 13.3731 2.80687 15.5935C4.60227 17.8139 7.09748 19.36 9.885 19.9792C9.93822 19.9898 9.99238 19.9951 10.0467 19.995C10.1027 19.9948 10.1585 19.9889 10.2133 19.9775C12.9953 19.334 15.4768 17.7662 17.2525 15.5302C19.0283 13.2942 19.9933 10.522 19.99 7.66667L20 1.6275ZM3.6525 10.2383C3.63173 10.165 3.63147 10.0874 3.65174 10.0139C3.67202 9.94046 3.71206 9.87396 3.7675 9.82167L10.9383 3.03584C11.0158 2.9625 11.1184 2.92164 11.225 2.92167H13.3625C13.4042 2.92174 13.4449 2.93432 13.4794 2.95779C13.5139 2.98127 13.5405 3.01455 13.5559 3.05333C13.5712 3.09211 13.5746 3.13461 13.5655 3.17532C13.5564 3.21603 13.5354 3.25308 13.505 3.28167L4.54583 11.7592C4.52223 11.7824 4.49339 11.7997 4.46173 11.8096C4.43007 11.8194 4.39652 11.8215 4.36388 11.8157C4.33124 11.8099 4.30046 11.7964 4.27412 11.7763C4.24778 11.7561 4.22665 11.73 4.2125 11.7C3.98217 11.2307 3.79474 10.7414 3.6525 10.2383ZM3.91 2.92167H7.50417C7.54576 2.92198 7.58631 2.93469 7.62065 2.95816C7.65498 2.98164 7.68154 3.01482 7.69692 3.05346C7.71231 3.0921 7.71582 3.13445 7.70702 3.1751C7.69822 3.21575 7.67749 3.25286 7.6475 3.28167L3.67833 7.0375C3.64874 7.06556 3.61158 7.08431 3.57143 7.09144C3.53129 7.09857 3.48993 7.09376 3.4525 7.07762C3.41506 7.06147 3.38318 7.03469 3.36081 7.0006C3.33845 6.96651 3.32657 6.92661 3.32667 6.88584L3.33333 3.50417C3.33354 3.35075 3.39418 3.2036 3.50212 3.09457C3.61005 2.98554 3.75659 2.92342 3.91 2.92167ZM5.69333 13.8275C5.65569 13.7873 5.63546 13.7338 5.63702 13.6787C5.63858 13.6236 5.66181 13.5714 5.70167 13.5333L16.4217 3.39C16.4432 3.3712 16.4696 3.35889 16.4979 3.35453C16.5261 3.35017 16.5551 3.35393 16.5813 3.36537C16.6075 3.37681 16.6299 3.39546 16.6459 3.41915C16.6619 3.44284 16.6708 3.47059 16.6717 3.49917V5.55251C16.6716 5.60937 16.6599 5.66562 16.6372 5.71779C16.6146 5.76996 16.5815 5.81694 16.54 5.85584L7.15833 14.65C7.08558 14.7183 6.99071 14.7583 6.891 14.7625C6.79128 14.7668 6.69335 14.7352 6.615 14.6733C6.28742 14.4144 5.97936 14.1317 5.69333 13.8275ZM10.1225 16.2442C10.0645 16.2563 10.0047 16.2563 9.94667 16.2442C9.68592 16.1882 9.42833 16.1184 9.175 16.035C9.1406 16.0237 9.10976 16.0036 9.0855 15.9767C9.06124 15.9498 9.04441 15.917 9.03667 15.8817C9.02856 15.8464 9.02992 15.8097 9.04061 15.7751C9.05129 15.7406 9.07092 15.7095 9.0975 15.685L16.2258 9.00417C16.2574 8.97469 16.2973 8.95575 16.3401 8.94996C16.3829 8.94418 16.4265 8.95184 16.4647 8.97188C16.503 8.99192 16.5341 9.02336 16.5537 9.06184C16.5733 9.10032 16.5804 9.14394 16.5742 9.18667C16.3307 10.8751 15.5853 12.4513 14.4349 13.7108C13.2844 14.9703 11.782 15.855 10.1225 16.25V16.2442Z"
-                                                fill="#0DC66D" />
+                                                d="M20 1.62836C19.9976 1.19749 19.8248 0.785075 19.5195 0.481105C19.2141 0.177135 18.8009 0.00629269 18.37 0.00585938H1.6325C1.20135 0.00850178 0.788764 0.181689 0.484903 0.48758C0.181042 0.793471 0.010605 1.2072 0.0108333 1.63836L0 7.75503C0.0219797 10.6104 1.01147 13.374 2.80687 15.5944C4.60227 17.8148 7.09748 19.3608 9.885 19.98C9.93822 19.9907 9.99238 19.996 10.0467 19.9959C10.1027 19.9956 10.1585 19.9898 10.2133 19.9784C12.9953 19.3349 15.4768 17.7671 17.2525 15.531C19.0283 13.295 19.9933 10.5229 19.99 7.66753L20 1.62836ZM3.6525 10.2392C3.63173 10.1659 3.63147 10.0882 3.65174 10.0148C3.67202 9.94132 3.71206 9.87482 3.7675 9.82253L10.9383 3.03669C11.0158 2.96335 11.1184 2.92249 11.225 2.92253H13.3625C13.4042 2.92259 13.4449 2.93518 13.4794 2.95865C13.5139 2.98212 13.5405 3.0154 13.5559 3.05418C13.5712 3.09296 13.5746 3.13546 13.5655 3.17617C13.5564 3.21688 13.5354 3.25393 13.505 3.28253L4.54583 11.76C4.52223 11.7833 4.49339 11.8006 4.46173 11.8104C4.43007 11.8203 4.39652 11.8224 4.36388 11.8166C4.33124 11.8108 4.30046 11.7973 4.27412 11.7771C4.24778 11.757 4.22665 11.7308 4.2125 11.7009C3.98217 11.2315 3.79474 10.7423 3.6525 10.2392ZM3.91 2.92253H7.50417C7.54576 2.92284 7.58631 2.93554 7.62065 2.95902C7.65498 2.98249 7.68154 3.01567 7.69692 3.05431C7.71231 3.09296 7.71582 3.13531 7.70702 3.17596C7.69822 3.21661 7.67749 3.25371 7.6475 3.28253L3.67833 7.03836C3.64874 7.06641 3.61158 7.08516 3.57143 7.09229C3.53129 7.09942 3.48993 7.09462 3.4525 7.07847C3.41506 7.06232 3.38318 7.03555 3.36081 7.00146C3.33845 6.96737 3.32657 6.92746 3.32667 6.88669L3.33333 3.50503C3.33354 3.35161 3.39418 3.20445 3.50212 3.09542C3.61005 2.9864 3.75659 2.92428 3.91 2.92253ZM5.69333 13.8284C5.65569 13.7881 5.63546 13.7346 5.63702 13.6796C5.63858 13.6245 5.66181 13.5722 5.70167 13.5342L16.4217 3.39086C16.4432 3.37205 16.4696 3.35975 16.4979 3.35539C16.5261 3.35102 16.5551 3.35478 16.5813 3.36622C16.6075 3.37767 16.6299 3.39632 16.6459 3.42001C16.6619 3.4437 16.6708 3.47145 16.6717 3.50003V5.55336C16.6716 5.61023 16.6599 5.66648 16.6372 5.71865C16.6146 5.77081 16.5815 5.81779 16.54 5.85669L7.15833 14.6509C7.08558 14.7192 6.99071 14.7591 6.891 14.7634C6.79128 14.7677 6.69335 14.736 6.615 14.6742C6.28742 14.4153 5.97936 14.1326 5.69333 13.8284ZM10.1225 16.245C10.0645 16.2571 10.0047 16.2571 9.94667 16.245C9.68592 16.189 9.42833 16.1192 9.175 16.0359C9.1406 16.0245 9.10976 16.0044 9.0855 15.9775C9.06124 15.9507 9.04441 15.9179 9.03667 15.8825C9.02856 15.8473 9.02992 15.8105 9.04061 15.776C9.05129 15.7415 9.07092 15.7104 9.0975 15.6859L16.2258 9.00503C16.2574 8.97555 16.2973 8.9566 16.3401 8.95082C16.3829 8.94503 16.4265 8.95269 16.4647 8.97274C16.503 8.99278 16.5341 9.02421 16.5537 9.06269C16.5733 9.10117 16.5804 9.1448 16.5742 9.18753C16.3307 10.8759 15.5853 12.4521 14.4349 13.7117C13.2844 14.9712 11.782 15.8559 10.1225 16.2509V16.245Z"
+                                                fill="#D13E34" />
                                         </g>
                                         <defs>
-                                            <clipPath id="clip0_103_3340">
+                                            <clipPath id="clip0_726_1461">
                                                 <rect width="20" height="20" fill="white" />
                                             </clipPath>
                                         </defs>
                                     </svg>
+
                                 </span>
                                 <div class="description-detail">
                                     <span class="txt-bold">Secure checkout</span>
@@ -670,23 +672,25 @@
                                             <a href="#tabs-1" class="payment-type-item">
                                                 <div class="checked-box">
                                                     <span class="icon-checked">
+
                                                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                             xmlns="http://www.w3.org/2000/svg">
                                                             <rect x="1" y="1" width="22" height="22" rx="11"
-                                                                fill="#034F76" />
-                                                            <g clip-path="url(#clip0_609_14566)">
+                                                                fill="#D13E34" />
+                                                            <g clip-path="url(#clip0_726_1505)">
                                                                 <path
-                                                                    d="M7.33301 12.0003L10.6663 15.3337L17.333 8.66699"
+                                                                    d="M7.33325 11.9993L10.6666 15.3327L17.3333 8.66602"
                                                                     stroke="white" stroke-width="2"
                                                                     stroke-linecap="round" stroke-linejoin="round" />
                                                             </g>
                                                             <defs>
-                                                                <clipPath id="clip0_609_14566">
+                                                                <clipPath id="clip0_726_1505">
                                                                     <rect width="16" height="16" fill="white"
                                                                         transform="translate(4 4)" />
                                                                 </clipPath>
                                                             </defs>
                                                         </svg>
+
                                                     </span>
                                                 </div>
                                                 <div class="payment-info">
@@ -722,24 +726,26 @@
                                                     <span class="checked">
                                                         <span class="icon-checked">
 
+
                                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                                 xmlns="http://www.w3.org/2000/svg">
                                                                 <rect x="1" y="1" width="22" height="22" rx="11"
-                                                                    fill="#034F76" />
-                                                                <g clip-path="url(#clip0_609_14566)">
+                                                                    fill="#D13E34" />
+                                                                <g clip-path="url(#clip0_726_1505)">
                                                                     <path
-                                                                        d="M7.33301 12.0003L10.6663 15.3337L17.333 8.66699"
+                                                                        d="M7.33325 11.9993L10.6666 15.3327L17.3333 8.66602"
                                                                         stroke="white" stroke-width="2"
                                                                         stroke-linecap="round"
                                                                         stroke-linejoin="round" />
                                                                 </g>
                                                                 <defs>
-                                                                    <clipPath id="clip0_609_14566">
+                                                                    <clipPath id="clip0_726_1505">
                                                                         <rect width="16" height="16" fill="white"
                                                                             transform="translate(4 4)" />
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg>
+
 
                                                         </span>
                                                     </span>
@@ -764,24 +770,26 @@
                                                 <div class="checked-box">
                                                     <span class="checked">
                                                         <span class="icon-checked">
+
                                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                                 xmlns="http://www.w3.org/2000/svg">
                                                                 <rect x="1" y="1" width="22" height="22" rx="11"
-                                                                    fill="#034F76" />
-                                                                <g clip-path="url(#clip0_609_14566)">
+                                                                    fill="#D13E34" />
+                                                                <g clip-path="url(#clip0_726_1505)">
                                                                     <path
-                                                                        d="M7.33301 12.0003L10.6663 15.3337L17.333 8.66699"
+                                                                        d="M7.33325 11.9993L10.6666 15.3327L17.3333 8.66602"
                                                                         stroke="white" stroke-width="2"
                                                                         stroke-linecap="round"
                                                                         stroke-linejoin="round" />
                                                                 </g>
                                                                 <defs>
-                                                                    <clipPath id="clip0_609_14566">
+                                                                    <clipPath id="clip0_726_1505">
                                                                         <rect width="16" height="16" fill="white"
                                                                             transform="translate(4 4)" />
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg>
+
 
                                                         </span>
                                                     </span>
@@ -910,24 +918,26 @@
                     </div>
                     <div class="right-content-step-3-wrapper">
                         <div class="right-content">
-                            <h4 class="title">2sport.tv plan includes:</h4>
+                            <h4 class="title">247sport plan includes:</h4>
                             <ul class="list-feature">
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>Full HD 1080p Live streaming</span>
@@ -936,19 +946,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>Watch on your TV, laptop, phone, or tablet</span>
@@ -957,19 +969,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>English commentary</span>
@@ -978,19 +992,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>Unlimited watching time</span>
@@ -999,19 +1015,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>All sports tournaments (Football, Tennis, NBA, etc.)</span>
@@ -1020,19 +1038,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>Full-screen mode</span>
@@ -1041,19 +1061,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>No ads/popups</span>
@@ -1062,19 +1084,21 @@
                                 <li>
                                     <span class="icon">
 
+
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <g clip-path="url(#clip0_609_14609)">
-                                                <path d="M3.33301 8.00033L6.66634 11.3337L13.333 4.66699"
-                                                    stroke="#F1516E" stroke-width="1.5" stroke-linecap="round"
+                                            <g clip-path="url(#clip0_726_1546)">
+                                                <path d="M3.3335 7.99935L6.66683 11.3327L13.3335 4.66602"
+                                                    stroke="#D13E34" stroke-width="1.5" stroke-linecap="round"
                                                     stroke-linejoin="round" />
                                             </g>
                                             <defs>
-                                                <clipPath id="clip0_609_14609">
+                                                <clipPath id="clip0_726_1546">
                                                     <rect width="16" height="16" fill="white" />
                                                 </clipPath>
                                             </defs>
                                         </svg>
+
 
                                     </span>
                                     <span>24/7 dedicated support</span>
