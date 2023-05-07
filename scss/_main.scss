@@ -113,6 +113,10 @@
           rgba(209, 62, 52, 0.1) 100%
         );
         border-bottom: 3px solid #e53e3e;
+
+        .label,.day {
+          color: #e53e3e;
+        }
       }
     }
   }
@@ -223,7 +227,7 @@
   line-height: 24px;
   text-transform: uppercase;
 }
-.txt-success {
+.txt-live-title {
   color: #007649;
 }
 
@@ -471,7 +475,7 @@
 
       .club-name-wrapper {
         .club-name {
-          max-width: 240px;
+          max-width: 200px;
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
@@ -578,6 +582,7 @@
   align-items: center;
   margin-bottom: 16px;
   border-bottom: 2px solid #E2E8F0;
+  position: relative;
 
   .main-tab-item {
     display: flex;
@@ -668,5 +673,20 @@
     padding: 0px 16px;
     background-color: #fff;
     border-radius: 0px 0px 8px 8px;
+  }
+}
+
+
+.date-time-picker-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+
+  .el-date-editor {
+    font-family: 'Poppins' !important;
+    max-width: 150px !important;
+    height: 40px;
+
   }
 }

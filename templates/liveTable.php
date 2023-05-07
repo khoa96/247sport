@@ -3,7 +3,7 @@
         <div class="live-icon">
             <img src="./images/live-icon.png" alt="">
         </div>
-        <h2 class="common-title txt-success">live</h2>
+        <h2 class="common-title txt-live-title">live</h2>
     </div>
 
     <div class="common-table-league">

@@ -205,6 +205,13 @@
       color: #D13E34;
     }
 
+    .stripe-image {
+      min-width: 94px;
+      max-width: 94px;
+      height: 34px;
+      object-fit: cover;
+    }
+
     .title {
       font-style: normal;
       font-weight: 500;
@@ -1708,7 +1715,7 @@
   border-radius: 8px;
   display: flex;
   align-items: center;
-  max-width: 720px;
+  max-width: 780px;
 
   @include mq(max_md) {
     max-width: 100%;
@@ -2525,13 +2532,46 @@
     margin-left: 0;
   }
 
-  .descrion-wrapper {
+  .description-wrapper {
     display: flex;
 
-    input {
-      margin-right: 12px;
+    input[type="checkbox"] {
+      position: relative;
       width: 24px;
-      height: 24px;
+      height: 24px;;
+      color: #fff;
+      border: 1px solid #E2E8F0;
+      border-radius: 6px;
+      appearance: none;
+      margin-right: 12px;
+      outline: 0;
+      cursor: pointer;
+      // transition: background 175ms cubic-bezier(0.1, 0.1, 0.25, 1);
+      &::before {
+        position: absolute;
+        content: '';
+        display: block;
+        top: 2px;
+        left: 7px;
+        width: 6px;
+        height: 12px;
+        border-style: solid;
+        border-color: #fff;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
+        opacity: 0;
+      }
+      &:checked {
+        color: #fff;
+        border-color: #D13E34;
+        background: #D13E34;
+        &::before {
+          opacity: 1;
+        }
+        ~ label::before {
+          clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        }
+      }
     }
 
     .description-text-wrapper {

@@ -184,6 +184,12 @@
 .page-price-wrapper .select-plan-header .hight-light {
   color: #D13E34;
 }
+.page-price-wrapper .select-plan-header .stripe-image {
+  min-width: 94px;
+  max-width: 94px;
+  height: 34px;
+  object-fit: cover;
+}
 .page-price-wrapper .select-plan-header .title {
   font-style: normal;
   font-weight: 500;
@@ -1555,7 +1561,7 @@
   border-radius: 8px;
   display: flex;
   align-items: center;
-  max-width: 720px;
+  max-width: 780px;
 }
 @media only screen and (max-width: 991px) {
   .create-account-description {
@@ -2309,25 +2315,57 @@
     margin-left: 0;
   }
 }
-.agree-box-wrapper .descrion-wrapper {
+.agree-box-wrapper .description-wrapper {
   display: flex;
 }
-.agree-box-wrapper .descrion-wrapper input {
-  margin-right: 12px;
+.agree-box-wrapper .description-wrapper input[type=checkbox] {
+  position: relative;
   width: 24px;
   height: 24px;
+  color: #fff;
+  border: 1px solid #E2E8F0;
+  border-radius: 6px;
+  appearance: none;
+  margin-right: 12px;
+  outline: 0;
+  cursor: pointer;
 }
-.agree-box-wrapper .descrion-wrapper .description-text-wrapper {
+.agree-box-wrapper .description-wrapper input[type=checkbox]::before {
+  position: absolute;
+  content: "";
+  display: block;
+  top: 2px;
+  left: 7px;
+  width: 6px;
+  height: 12px;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  opacity: 0;
+}
+.agree-box-wrapper .description-wrapper input[type=checkbox]:checked {
+  color: #fff;
+  border-color: #D13E34;
+  background: #D13E34;
+}
+.agree-box-wrapper .description-wrapper input[type=checkbox]:checked::before {
+  opacity: 1;
+}
+.agree-box-wrapper .description-wrapper input[type=checkbox]:checked ~ label::before {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+.agree-box-wrapper .description-wrapper .description-text-wrapper {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
   color: #1A202C;
 }
-.agree-box-wrapper .descrion-wrapper .description-text-wrapper p {
+.agree-box-wrapper .description-wrapper .description-text-wrapper p {
   margin-bottom: 8px;
 }
-.agree-box-wrapper .descrion-wrapper .description-text-wrapper a {
+.agree-box-wrapper .description-wrapper .description-text-wrapper a {
   color: #1A202C;
 }
 .agree-box-wrapper .btn-subscribe {

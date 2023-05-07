@@ -110,7 +110,6 @@ p {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  // overflow: auto;
 
   @include mq(max_md) {
     min-width: 100%;
@@ -122,8 +121,6 @@ p {
 
 .container {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -145,12 +142,7 @@ p {
 
 @media (min-width: 1400px) {
   .container {
-    max-width: 1400px !important;
-  }
-}
-@media (min-width: 2000px) {
-  .container {
-    max-width: 1900px !important;
+    max-width: 1296px !important;
   }
 }
 

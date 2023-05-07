@@ -11,6 +11,11 @@
                     <h3 class="label">Fixture</h3>
                 </a>
             </li>
+            <div class="date-time-picker-wrapper">
+                <div id="date-picker">
+                    <el-date-picker v-model="mydate" type="date">
+                </div>
+            </div>
         </ul>
         <div id="tab-1" class="main-tab-content">
             <div class="list-match-table">
