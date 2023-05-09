@@ -6,6 +6,7 @@
 .header {
   width: 100%;
   padding: 14px 0px;
+  position: relative;
   display: flex;
   align-items: center;
   background-image: url("../images/header-background.png");
@@ -21,7 +22,6 @@
   .header-content {
     width: 100%;
     height: auto;
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -32,27 +32,41 @@
     max-width: 232px;
     height: 40px;
     object-fit: cover;
+    display: block;
 
     @include mq(max_md) {
       min-width: 162px;
       max-width: 162px;
       height: 28px;
     }
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
   }
   .header-control {
     display: flex;
     align-items: center;
-
-    @include mq(max_md) {
-      display: none;
-    }
   }
 
-  .header-menu {
+  .navbar-menu {
     display: flex;
     align-items: center;
-    list-style: none;
-    margin-right: 16px;
+
+    .main-menu {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      margin-right: 16px;
+
+      @include mq(max_md) {
+        flex-direction: column;
+        margin-right: 0;
+      }
+    }
 
     @include mq(max_md) {
       display: none;
@@ -125,6 +139,63 @@
       }
     }
   }
+
+  .navbar {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .navbar-toggle {
+    display: none;
+    cursor: pointer;
+    z-index: 99999;
+  }
+
+  .navbar-toggle span {
+    display: block;
+    height: 2px;
+    width: 25px;
+    margin-bottom: 6px;
+    background-color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .navbar-menu {
+      display: none;
+    }
+    .navbar-toggle {
+      display: block;
+    }
+    .navbar-toggle.active span:nth-child(2) {
+      opacity: 0;
+    }
+    .navbar-toggle.active span:first-child {
+      transform: translateY(8px) rotate(45deg);
+    }
+    .navbar-toggle.active span:last-child {
+      transform: translateY(-8px) rotate(-45deg);
+    }
+  }
+
+  .navbar-menu.show {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    padding: 12px;
+    background-color: #d13e34;
+    z-index: 99999;
+  }
+
+  .navbar-menu.show li {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
 }
 
 // ============START STYLE MAIN MENU =========
