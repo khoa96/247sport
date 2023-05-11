@@ -185,7 +185,7 @@
       display: inline-block;
       max-width: 200px;
 
-      @include mq(max_md) {
+      @media screen and (max-width: 1200px) {
         max-width: 150px;
       }
     }
@@ -413,10 +413,14 @@
       text-overflow: ellipsis;
       display: inline-block;
 
-      @include mq(max_md) {
-        max-width: 45vw;
+      @media screen and (max-width: 1200px) {
+        max-width: 100px;
         margin: 0;
         padding: 0;
+      }
+
+      @include mq(max_md) {
+        max-width: 150px;
       }
     }
   }
@@ -462,8 +466,12 @@
           text-overflow: ellipsis;
           display: inline-block;
 
+          @media screen and (max-width: 1200px){
+            max-width: 100px;
+          }
+
           @include mq(max_md) {
-            max-width: 110px;
+             max-width: 150px;
           }
         }
       }
